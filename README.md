@@ -22,7 +22,7 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 2. Abra o arquivo `index.html` no seu navegador
 3. Não é necessária configuração adicional - todas as dependências são carregadas via CDN
 
-## Link do Vídeo de Estudo
+## 🎥 Link do Vídeo de Estudo
 
 Este projeto foi desenvolvido como parte de um estudo baseado no vídeo de Larissa Kich. Você pode conferir o vídeo completo no seguinte link:
 
