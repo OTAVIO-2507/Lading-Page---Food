@@ -1,28 +1,25 @@
-
-# ☕ Landing Page Starbucks
-Uma landing page responsiva com o tema Starbucks, construída com HTML, CSS e JavaScript. O projeto foi desenvolvido seguindo a metodologia Mobile First e apresenta um design limpo, com animações suaves e customizadas que foram adicionadas utilizando CSS e JavaScript.
+# 🍔 Landing Page
+Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. Este projeto apresenta um design limpo com animações suaves.
 
 ## 🌐 Visualize o projeto:
-[Ver Projeto Online]([COLOQUE O LINK DO SEU PROJETO AQUI])
+**[Ver Projeto Online](https://otavio-2507.github.io/Lading-Page---Food/)**
 
 ## 🛠️ Tecnologias Utilizadas
-O projeto foi construído com as seguintes ferramentas e tecnologias, muitas das quais foram carregadas via CDN:
 
-- HTML5: Marcação semântica
-- CSS3: Estilização e media queries para responsividade
-- JavaScript: Funcionalidade interativa e customização de animações
-- jQuery: Manipulação DOM e manipulação de eventos (se utilizado)
-- ScrollReveal: Animações de scroll (se utilizado)
-- Font Awesome: Ícones
-- Google Fonts: Fontes
-
+- **HTML5**: Marcação semântica
+- **CSS3**: Estilização
+- **JavaScript**: Funcionalidade interativa
+- **jQuery**: Manipulação DOM e manipulação de eventos
+- **ScrollReveal**: Animações de scroll
+- **Font Awesome**: Ícones
+- **Google Fonts**: Fontes
+  
 ## 🚀 Como Começar
-1. Clone ou baixe os arquivos do projeto para sua máquina local.
-2. Abra o arquivo index.html no seu navegador.
-3. Não é necessária configuração adicional — todas as dependências externas são carregadas via CDN.
+1. Clone ou baixe os arquivos do projeto
+2. Abra o arquivo `index.html` no seu navegador
+3. Não é necessária configuração adicional - todas as dependências são carregadas via CDN
+
 
 ## 🎥 Link do Vídeo de Estudo
-Este projeto foi desenvolvido como parte de um estudo e aperfeiçoamento das técnicas de desenvolvimento Front-end, baseado no tutorial da Larissa Kich:
-Vídeo Original: "Como fazer uma Landing Page com HTML, CSS e JavaScript | Mobile First"
-
-Link do Vídeo: (https://www.youtube.com/watch?v=ik-njdH5Q5c)
+Este projeto foi desenvolvido como parte de um estudo baseado no vídeo de Larissa Kich. Você pode conferir o vídeo completo no seguinte link:
+**[Estudo Larissa Kich - YouTube](https://www.youtube.com/watch?v=8V3mw1w6h0U&t=456s)**
