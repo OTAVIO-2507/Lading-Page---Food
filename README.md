@@ -2,7 +2,7 @@
 Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e JavaScript. Este projeto apresenta um design limpo com animações suaves.
 
 ## 🌐 Visualize o projeto:
-**[Ver Projeto Online](https://otavio-2507.github.io/Lading-Page---Food/)**
+**[Ver Projeto Online](https://otavio-2507.github.io/Emporio-Mais-Sabor/)**
 
 ## 🛠️ Tecnologias Utilizadas
 
